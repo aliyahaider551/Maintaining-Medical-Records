@@ -44,9 +44,3 @@
 
 ## Conclusion
 Through this project, the patient data management system was successfully implemented, overcoming numerous errors. The system efficiently writes user data to one file (`MedicalRecord.txt`) and converts the values for another file (`ConvertedMedicalRecords.txt`). The techniques learned during this project will be invaluable for future endeavors.
-
-## References
-1. P. Cyubahiro, “Object-Oriented Programming - A Beginner’s Guide.” [Online]. URL: [freeCodeCamp](https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/)
-2. Anonymous, “Inheritance In Java and Types of Inheritance in Java.” [Online]. URL: [Great Learning](https://mygreatlearning.com/blog/inheritance-in-java/)
-3. J. Hartman, “What is Abstraction in OOPs? Java Abstract class & Method.” [Online]. URL: [Guru99](https://www.guru99.com/java-data-abstraction.html)
-4. C. Singh, “Java main() method explained with examples.” [Online]. URL: [BeginnersBook](https://beginnersbook.com/2021/08/java-main-method-explained-with-examples/)
